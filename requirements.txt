@@ -1,0 +1,10 @@
+flask
+pymysql
+flask-sqlalchemy
+flask-script
+flask-wtf
+flask-migrate
+py-bcrypt
+python-slugify
+flask-markdown
+-e git+https://github.com/fromzeroedu/flask_uploads#egg=flask_uploads
